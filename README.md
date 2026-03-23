@@ -62,7 +62,7 @@ Enhanced brand loyalty through innovative UX.
 ## Output:
 
 
-<img width="1379" height="1036" alt="image" src="https://github.com/user-attachments/assets/be81d203-0aad-4b89-bafd-aac29d0ce5ef" />
+<img width="483" height="824" alt="image" src="https://github.com/user-attachments/assets/1ff80ecd-fcd1-497d-a04e-e340186a0a07" />
 
 
 ## Result:
